@@ -43,11 +43,11 @@ Notice:
 
 1. Shadowrocket users should use `ss`, `ssr` or `v2ray` as target.
 
-2. You can add `&remark=` to Telegram-liked HTTP/Socks 5 links to set a remark for this node. For example:
+2. You can add `&remarks=` to Telegram-liked HTTP/Socks 5 links to set a remark for this node. For example:
 
-   - tg://http?server=1.2.3.4&port=233&user=user&pass=pass&remark=Example
+   - tg://http?server=1.2.3.4&port=233&user=user&pass=pass&remarks=Example
 
-   - https://t.me/http?server=1.2.3.4&port=233&user=user&pass=pass&remark=Example
+   - https://t.me/http?server=1.2.3.4&port=233&user=user&pass=pass&remarks=Example
 
 
 ---
